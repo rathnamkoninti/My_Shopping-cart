@@ -1,1 +1,1 @@
-web: gunicorn rkshopping.wsgi
+web: gunicorn my shopping.wsgi
