@@ -1,1 +1,1 @@
-web: gunicorn my shopping.wsgi
+"start":"gunicorn my shopping.wsgi"
